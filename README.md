@@ -27,7 +27,6 @@ Before diving into this lesson, you should have a basic understanding of Python 
 
 5. **Part 5: Functions**
    - Creating and using functions in Python.
-
 ## Topics Covered
 
 In this data analysis lesson, we will cover the following topics:
